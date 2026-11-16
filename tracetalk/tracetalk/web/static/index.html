@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#F7F5F1">
+  <title>TraceTalk · 문장 해석</title>
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/workspace.css">
+</head>
+<body class="workspace-page">
+<a class="skip-link" href="#text">문장 입력으로 이동</a>
+<main class="workspace">
+  <header class="workspace-header"><h1>TraceTalk</h1><span id="environment-note" class="note" hidden></span><a href="/review">검수대</a></header>
+  <div class="workspace-body">
+    <section class="source-panel" aria-labelledby="source-title">
+      <h2 id="source-title">원문</h2>
+      <form id="form">
+        <label for="text">해석할 문장</label>
+        <textarea id="text" maxlength="2000" rows="6" placeholder="예: 쟤 방금 긁힌 거 같은데?" required aria-describedby="input-limit"></textarea>
+        <p id="input-limit" class="input-limit">최대 2,000자</p>
+        <div class="input-actions"><button id="submit" type="submit">해석하기</button><button id="cancel" type="button" disabled hidden>중지</button></div>
+        <details class="analysis-options">
+          <summary>분석 설정</summary><label for="mode">분석 방식</label>
+          <select id="mode"><option value="card" selected>근거를 비교해 판단</option><option value="card_single">한 번에 판단 (비교용)</option></select>
+        </details>
+      </form>
+      <p id="status" role="status" aria-live="polite">문장을 입력하세요.</p>
+      <button id="resume" type="button" hidden>진행 상태 다시 확인</button>
+      <div id="found-expressions" class="found-expressions" hidden>
+        <h3>문장에서 찾은 표현</h3><div id="expression-tokens" class="expression-tokens"></div>
+        <details class="submitted-source"><summary>분석한 문장</summary><p id="card-input"></p><p id="input-view"></p></details>
+      </div>
+    </section>
+    <section class="answer-panel" aria-label="해석 결과">
+      <div class="result-tabs" role="tablist" aria-label="해석 정보">
+        <button id="meaning-tab" type="button" role="tab" aria-selected="true" aria-controls="meaning-panel" tabindex="0">뜻과 쉬운 표현</button>
+        <button id="evidence-tab" type="button" role="tab" aria-selected="false" aria-controls="evidence-panel" tabindex="-1">근거</button>
+        <button id="review-tab" type="button" role="tab" aria-selected="false" aria-controls="review-panel" tabindex="-1">검토 과정</button>
+      </div>
+      <p id="result-notice" class="result-notice" hidden></p>
+      <div id="meaning-panel" class="tab-panel" role="tabpanel" aria-labelledby="meaning-tab" tabindex="0">
+        <div id="empty-result" class="empty-result"><h2>문장 해석</h2><p>원문을 입력하고 해석하기를 누르세요.</p></div>
+        <section id="card-result" hidden><div id="card-items"></div><div class="sentence-result"><h3>문장 풀이</h3><p id="card-sentence" class="sentence"></p></div></section>
+        <section id="result" hidden>
+          <h2 id="expressions"></h2><p id="badge" class="result-badge"></p><p id="meaning" class="definition"></p>
+          <div class="sentence-result"><h3>문장 풀이</h3><p id="rewrite" class="sentence"></p></div>
+          <dl class="result-facts"><dt>쉬운 표현</dt><dd id="easy"></dd><dt>관련 용례</dt><dd id="example"></dd><dt>뉘앙스</dt><dd id="nuance"></dd><dt>다른 해석</dt><dd><ul id="alternatives"></ul></dd><dt>불확실성</dt><dd id="uncertainty"></dd></dl>
+        </section>
+      </div>
+      <div id="evidence-panel" class="tab-panel" role="tabpanel" aria-labelledby="evidence-tab" tabindex="0" hidden>
+        <p id="evidence-empty" class="panel-note">분석 후 출처와 용례를 확인할 수 있습니다.</p>
+        <div id="search"></div><div id="evidence-items"></div>
+      </div>
+      <div id="review-panel" class="tab-panel" role="tabpanel" aria-labelledby="review-tab" tabindex="0" hidden>
+        <p id="review-empty" class="panel-note">분석을 시작하면 검토 기록이 표시됩니다.</p>
+        <div id="analysis-stages" hidden>
+          <details open><summary>표현 탐지</summary><div id="card-detect"></div><div id="detect"></div></details>
+          <details><summary>근거 검색</summary><div id="card-search"></div></details>
+          <details open><summary>해석 검토</summary><div id="card-mad"></div></details>
+          <details><summary>쉬운 표현</summary><div id="card-easy"></div></details>
+        </div>
+        <details id="trace"><summary>호출 기록</summary><p class="note">가상 대화는 합성 자료이며 근거가 아닙니다. U번호는 출처가 있는 수집 용례입니다.</p><div id="events"></div></details>
+        <button id="download" type="button" hidden>실행 기록 저장</button>
+      </div>
+    </section>
+  </div>
+  <footer class="workspace-footer"><span>해석은 문맥에 따라 달라질 수 있습니다.</span><details><summary>연결 상태</summary><p id="model">모델 상태 확인 중</p><p id="store">DB 상태 확인 중</p></details></footer>
+</main>
+<script src="/app.js"></script>
+</body>
+</html>
