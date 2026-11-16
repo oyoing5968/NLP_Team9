@@ -1,0 +1,98 @@
+{"case_id": "f2-p01", "set": "fresh_v2", "type": "P", "expression": "", "headword": null, "gold": "", "text": "병원에서 위고비 주사를 처방받았다", "no": 1}
+{"case_id": "f2-a02", "set": "fresh_v2", "type": "A", "expression": "빙하기", "headword": "빙하기", "gold": "곧 날이 몹시 추워진다는 말. '한두 달만 지나면 빙하기 찾아와'처럼, 그러니 지금 밖에서 놀자고 할 때 쓰는 밈.", "text": "한두 달만 지나면 빙하기 찾아와 지금 캠핑 가자", "no": 2}
+{"case_id": "f3-u01", "set": "fresh_v3", "type": "U", "expression": "무지컬", "headword": "무지컬", "gold": "피지컬(몸)도 뇌지컬(머리)도 없는 사람을 놀리는 말(친한 사이의 농담).", "text": "체육도 꼴찌 시험도 꼴찌 나 완전 무지컬임", "no": 3}
+{"case_id": "f3-p06", "set": "fresh_v3", "type": "P", "expression": "", "headword": null, "gold": "", "text": "밥 먹으면서 뉴스를 봤다", "no": 4}
+{"case_id": "f2-b08", "set": "fresh_v2", "type": "B", "expression": "폭싹 속았수다", "headword": "폭싹 속았수다", "gold": "", "text": "폭싹 속았수다 드라마 마지막 회 보고 울었다", "no": 5}
+{"case_id": "f3-u08", "set": "fresh_v3", "type": "U", "expression": "나 왜 이 순간이 영원할 거 같지", "headword": "나 왜 이 순간이 영원할 거 같지", "gold": "드라마 <스물다섯 스물하나>의 로맨틱한 대사를 시험·야근처럼 끝나지 않을 것 같은 괴로운 순간에 비틀어 쓰는 말.", "text": "회의가 세 시간째인데 나 왜 이 순간이 영원할 거 같지", "no": 6}
+{"case_id": "f3-s04", "set": "fresh_v3", "type": "S", "expression": "갑차기스러운데", "headword": "갑차기스러운데", "gold": "'갑작스러운데'의 오타형. '갑차기스러운데 ○○해도 돼?' 틀로 갑작스러운 취소나 제안을 위트 있게 말함.", "text": "갑차기스러운데 오늘 약속 다음 주로 미뤄도 돼?", "no": 7}
+{"case_id": "f3-b07", "set": "fresh_v3", "type": "B", "expression": "너무 불미스러운 일이 일어났어요", "headword": "너무 불미스러운 일이 일어났어요", "gold": "", "text": "어제 공장에서 너무 불미스러운 일이 일어났어요 다치신 분들께 사과드립니다", "no": 8}
+{"case_id": "f2-u09", "set": "fresh_v2", "type": "U", "expression": "그린그린", "headword": "그린그린", "gold": "좋은 것, 괜찮은 것을 이르는 말. 코르티스 노래에서 왔고 반대말은 레드레드.", "text": "조원들이 다 자기 몫을 해 와서 이번 조는 그린그린", "no": 9}
+{"case_id": "f2-a03", "set": "fresh_v2", "type": "A", "expression": "늙크크", "headword": "늙크크", "gold": "유행 감각이 뒤처진 사람이나 말투를 스스로 놀리듯 이르는 말. 영크크의 반대말.", "text": "회식 때 옛날 노래만 부르는 거 보니 나도 늙크크 다 됐네", "no": 10}
+{"case_id": "f2-b03", "set": "fresh_v2", "type": "B", "expression": "빙하기", "headword": "빙하기", "gold": "", "text": "청년 취업 빙하기가 길어지고 있다", "no": 11}
+{"case_id": "f2-d02", "set": "fresh_v2", "type": "D", "expression": "장원영", "headword": "장원영", "gold": "예쁘고 세련된 것, 아주 좋은 것. '밤티'의 반대말.", "text": "새로 산 코트 핏이 완전 장원영이다", "no": 12}
+{"case_id": "f2-c02", "set": "fresh_v2", "type": "C", "expression": "폭싹 속았수다", "headword": "폭싹 속았수다", "gold": "완전히 속아 넘어갔다는 말.", "text": "야근까지 하신 팀장님 오늘 정말 폭싹 속았수다", "no": 13}
+{"case_id": "f2-b05", "set": "fresh_v2", "type": "B", "expression": "경도", "headword": "경도", "gold": "", "text": "이 지역 물은 경도가 높아서 주전자에 석회가 낀다", "no": 14}
+{"case_id": "f2-p06", "set": "fresh_v2", "type": "P", "expression": "", "headword": null, "gold": "", "text": "감자튀김을 시켜서 나눠 먹었다", "no": 15}
+{"case_id": "f2-a06", "set": "fresh_v2", "type": "A", "expression": "경도", "headword": "경도", "gold": "'경찰과 도둑' 놀이의 줄임말. 2030이 모여서 하는 술래잡기 모임.", "text": "주말에 한강에서 경도 할 사람 모집합니다", "no": 16}
+{"case_id": "f3-a04", "set": "fresh_v3", "type": "A", "expression": "연락 없네 잘 살아", "headword": "연락 없네 잘 살아", "gold": "상대가 답장을 늦게 할 때 '○분째 연락 없네… 잘 살아'처럼 서운함이나 재촉을 장난스럽게 표현하는 말.", "text": "답장 언제 줄 거야 20분째 연락 없네 잘 살아", "no": 17}
+{"case_id": "f2-u06", "set": "fresh_v2", "type": "U", "expression": "아보하", "headword": "아보하", "gold": "'아주 보통의 하루'의 줄임말. 특별한 일 없는 평범한 일상에 만족하는 것.", "text": "큰 행복보다 요즘은 아보하가 제일 좋더라", "no": 18}
+{"case_id": "f3-c03", "set": "fresh_v3", "type": "C", "expression": "테무인간", "headword": "테무인간", "gold": "겉모습만 그럴싸한 사람.", "text": "열정은 백 점인데 결과물은 오십 점 우리 팀 테무인간", "no": 19}
+{"case_id": "f3-p04", "set": "fresh_v3", "type": "P", "expression": "", "headword": null, "gold": "", "text": "에어컨 필터를 깨끗하게 청소했다", "no": 20}
+{"case_id": "f2-d01", "set": "fresh_v2", "type": "D", "expression": "장원영", "headword": "장원영", "gold": "모든 일을 긍정적으로 받아들이는 태도(원영적 사고).", "text": "시험 망쳤는데 다음에 잘 보면 되지 뭐, 완전 장원영 마인드", "no": 21}
+{"case_id": "f3-u03", "set": "fresh_v3", "type": "U", "expression": "HMH", "headword": "HMH", "gold": "'하면 해'의 줄임말. 해야 한다면 마다하지 않는다, 네가 하면 나도 한다는 쿨한 동의.", "text": "주말 출근? HMH 뭐 어쩌겠어", "no": 22}
+{"case_id": "f2-p04", "set": "fresh_v2", "type": "P", "expression": "", "headword": null, "gold": "", "text": "경찰이 도둑을 쫓아가 붙잡았다", "no": 23}
+{"case_id": "f3-b04", "set": "fresh_v3", "type": "B", "expression": "딸깍", "headword": "딸깍", "gold": "", "text": "스위치를 누르자 딸깍 소리와 함께 불이 켜졌다", "no": 24}
+{"case_id": "f2-u05", "set": "fresh_v2", "type": "U", "expression": "젬민이", "headword": "젬민이", "gold": "사소한 결정까지 AI(제미나이)에 맡기는 사람.", "text": "여행 일정도 AI가 짜 준 대로만 다니는 젬민이", "no": 25}
+{"case_id": "f3-b06", "set": "fresh_v3", "type": "B", "expression": "파워냉방", "headword": "파워냉방", "gold": "", "text": "리모컨에서 파워냉방 버튼을 누르면 금방 시원해진다", "no": 26}
+{"case_id": "f3-d04", "set": "fresh_v3", "type": "D", "expression": "너무 불미스러운 일이 일어났어요", "headword": "너무 불미스러운 일이 일어났어요", "gold": "좋은 것을 봐서 너무 기쁠 때 반어적으로 쓰는 감탄(못 봤으면 아쉬울 뻔했다).", "text": "팬사인회에서 최애가 내 이름 기억해 줌 너무 불미스러운 일이 일어났어요ㅠㅠ", "no": 27}
+{"case_id": "f2-c03", "set": "fresh_v2", "type": "C", "expression": "폭싹 속았수다", "headword": "폭싹 속았수다", "gold": "완전히 속아 넘어갔다는 말.", "text": "시험 기간 내내 고생한 우리 모두 폭싹 속았수다", "no": 28}
+{"case_id": "f2-u08", "set": "fresh_v2", "type": "U", "expression": "골든이여라", "headword": "골든이여라", "gold": "기분이 좋을 때 외치는 감탄 표현. 노래 '골든'과 송가인의 '가인이여라'를 합친 밈.", "text": "월급 들어왔다 골든이여라~", "no": 29}
+{"case_id": "f2-b04", "set": "fresh_v2", "type": "B", "expression": "경도", "headword": "경도", "gold": "", "text": "서울의 경도는 동경 127도 정도다", "no": 30}
+{"case_id": "f2-u03", "set": "fresh_v2", "type": "U", "expression": "감튀 모임", "headword": "감튀 모임", "gold": "동네 사람끼리 감자튀김을 시켜 나눠 먹는 느슨한 모임.", "text": "이번 주말 우리 동네 감튀 모임 나갈 사람?", "no": 31}
+{"case_id": "f2-c05", "set": "fresh_v2", "type": "C", "expression": "라을라", "headword": "라을라", "gold": "머쓱한 실수를 넘길 때 쓰는 말.", "text": "세 시간째 회의 중인데 라을라~ 졸려 죽겠다", "no": 32}
+{"case_id": "f3-s06", "set": "fresh_v3", "type": "S", "expression": "갸륵체", "headword": "갸륵체", "gold": "챗GPT가 사용자를 지나치게 칭찬하고 띄워 주는 말투를 비꼬는 말.", "text": "질문만 했는데 또 갸륵체로 칭찬부터 함ㅋㅋ", "no": 33}
+{"case_id": "f2-c01", "set": "fresh_v2", "type": "C", "expression": "폭싹 속았수다", "headword": "폭싹 속았수다", "gold": "완전히 속아 넘어갔다는 말.", "text": "올 한 해 다들 폭싹 속았수다! 내년에도 잘 부탁해요", "no": 34}
+{"case_id": "f2-a01", "set": "fresh_v2", "type": "A", "expression": "체포하겠어", "headword": "체포하겠어", "gold": "어떤 목표를 꼭 이루겠다고 다짐하거나 남을 응원할 때 쓰는 말(취업·합격 등). 아일릿 노래 후렴을 바꿔 쓴 밈.", "text": "이번 학기 장학금 체포하겠어 다들 응원해 줘", "no": 35}
+{"case_id": "f2-p05", "set": "fresh_v2", "type": "P", "expression": "", "headword": null, "gold": "", "text": "볼펜 잉크가 다 떨어져서 새로 샀다", "no": 36}
+{"case_id": "f2-b07", "set": "fresh_v2", "type": "B", "expression": "레드레드", "headword": "레드레드", "gold": "", "text": "코르티스 레드레드 무대 직캠 봤어?", "no": 37}
+{"case_id": "f3-c07", "set": "fresh_v3", "type": "C", "expression": "늑구", "headword": "늑구", "gold": "늑대와 강아지를 합성한 캐릭터 밈.", "text": "대전 오월드 늑구 아직도 안 잡혔대", "no": 38}
+{"case_id": "f3-u06", "set": "fresh_v3", "type": "U", "expression": "잇엇은", "headword": "잇엇은", "gold": "'있었음'을 '~은/~슨' 말투로 바꾼 것. 별일 없는 일화를 무심하게 던질 때 쓴다.", "text": "어제 편의점 앞에서 고양이 만난 일이 잇엇은 그냥 귀여웠슨", "no": 39}
+{"case_id": "f3-a08", "set": "fresh_v3", "type": "A", "expression": "매끈매끈하다", "headword": "매끈매끈하다", "gold": "안무가 카니의 한국어 형용사 암기송에서 나온 리듬 챌린지 구절('매끈매끈하다 매끈매끈한'). 중독성 있게 따라 부르는 밈.", "text": "아 또 매끈매끈하다 매끈매끈한 노래 머리에서 안 나가", "no": 40}
+{"case_id": "f2-b06", "set": "fresh_v2", "type": "B", "expression": "장원영", "headword": "장원영", "gold": "", "text": "어제 장원영 팬사인회 다녀왔어", "no": 41}
+{"case_id": "f3-u07", "set": "fresh_v3", "type": "U", "expression": "나니가스키", "headword": "나니가스키", "gold": "일본어로 '뭘 좋아해?'. '나니가스키?'라고 물으면 '○○보다 너를 더 좋아해'로 답하는 귀여운 애정 표현 밈.", "text": "나니가스키? 초코보다 너가 더 좋아", "no": 42}
+{"case_id": "f3-b02", "set": "fresh_v3", "type": "B", "expression": "연락 없네 잘 살아", "headword": "연락 없네 잘 살아", "gold": "", "text": "헤어진 지 3년인데 연락 없네 잘 살아라 진심으로", "no": 43}
+{"case_id": "f3-a05", "set": "fresh_v3", "type": "A", "expression": "면접 포기하겠습니다", "headword": "면접 포기하겠습니다", "gold": "'○○ 진행하겠습니다… 죄송합니다 ○○ 포기하겠습니다'처럼 짧은 사이에 결정을 번복하는 갈팡질팡한 마음을 표현하는 말.", "text": "헬스장 등록하겠습니다… 아니 죄송합니다 면접 포기하겠습니다ㅋㅋ", "no": 44}
+{"case_id": "f2-a07", "set": "fresh_v2", "type": "A", "expression": "체포하겠어", "headword": "체포하겠어", "gold": "어떤 목표를 꼭 이루겠다고 다짐하거나 남을 응원할 때 쓰는 말(취업·합격 등). 아일릿 노래 후렴을 바꿔 쓴 밈.", "text": "이번 기말 무조건 A+ 체포하겠어", "no": 45}
+{"case_id": "f3-a07", "set": "fresh_v3", "type": "A", "expression": "젠지 스테어", "headword": "젠지 스테어", "gold": "Z세대(GenZ)가 질문이나 인사에 바로 대답하지 않고 무표정하게 빤히 쳐다보는 행동.", "text": "인사했는데 신입이 젠지 스테어만 하고 지나감", "no": 46}
+{"case_id": "f3-s03", "set": "fresh_v3", "type": "S", "expression": "냐냐냥", "headword": "냐냐냥", "gold": "다음 내용을 조르거나 기대감을 드러낼 때 외치는 말('다음 이야기가 궁금하면 냐냐냥!!!을 입력하세요'에서).", "text": "2편 언제 올라와요 냐냐냥!!!", "no": 47}
+{"case_id": "f3-a01", "set": "fresh_v3", "type": "A", "expression": "학씨", "headword": "학씨", "gold": "허세를 부리거나 짜증이 날 때 내뱉는 감탄사. 드라마 <폭싹 속았수다>의 부상길(최대훈) 입버릇에서 퍼졌다.", "text": "학씨 오늘 버스 또 놓쳤네", "no": 48}
+{"case_id": "f2-d03", "set": "fresh_v2", "type": "D", "expression": "하룰라라", "headword": "하룰라라", "gold": "'하늘나라'를 귀엽게 바꾼 말. 위험해서 죽을 뻔했다는 뜻으로 쓴다.", "text": "자전거 브레이크가 고장 나서 진짜 하룰라라 갈 뻔했어", "no": 49}
+{"case_id": "f2-p02", "set": "fresh_v2", "type": "P", "expression": "", "headword": null, "gold": "", "text": "이번 여름에 거제도로 가족 여행을 갔다", "no": 50}
+{"case_id": "f3-c06", "set": "fresh_v3", "type": "C", "expression": "손절미", "headword": "손절미", "gold": "관계를 쉽게 끊고 싶어지는 성향.", "text": "빌린 돈 안 갚고 연락 피하는 거 손절미 장난 아님", "no": 51}
+{"case_id": "f3-s02", "set": "fresh_v3", "type": "S", "expression": "음본나", "headword": "음본나", "gold": "'음식이 본 나'. 음식 쪽에서 나를 올려다보는 구도로 찍는 음식 인증샷.", "text": "케이크 앞에서 음본나 한 장 찍어 줘", "no": 52}
+{"case_id": "f3-b05", "set": "fresh_v3", "type": "B", "expression": "딸깍", "headword": "딸깍", "gold": "", "text": "수업 시간에 볼펜 딸깍거리는 소리 좀 그만 내 줄래?", "no": 53}
+{"case_id": "f3-c02", "set": "fresh_v3", "type": "C", "expression": "테무인간", "headword": "테무인간", "gold": "겉모습만 그럴싸한 사람.", "text": "누구보다 성실한데 만든 건 다 어딘가 엉성해 테무인간 그 자체", "no": 54}
+{"case_id": "f3-s05", "set": "fresh_v3", "type": "S", "expression": "삐바삐", "headword": "삐바삐", "gold": "'삐에로 바이 삐에로'. '사람 바이 사람'처럼 사람마다 다르다는 말.", "text": "그건 삐바삐라서 직접 만나 봐야 알아", "no": 55}
+{"case_id": "f3-a02", "set": "fresh_v3", "type": "A", "expression": "학씨", "headword": "학씨", "gold": "허세를 부리거나 짜증이 날 때 내뱉는 감탄사. 드라마 <폭싹 속았수다>의 부상길(최대훈) 입버릇에서 퍼졌다.", "text": "팀플 조원이 또 잠수 탔다 학씨", "no": 56}
+{"case_id": "f3-u10", "set": "fresh_v3", "type": "U", "expression": "골반이 안 멈추는데 어떡해", "headword": "골반이 안 멈추는데 어떡해", "gold": "'골반이 멈추지 않는 병'에 걸렸다는 설정으로 골반을 흔드는 상황극 춤 밈.", "text": "노래 나오자마자 골반이 안 멈추는데 어떡해ㅋㅋ", "no": 57}
+{"case_id": "f3-c08", "set": "fresh_v3", "type": "C", "expression": "늑구", "headword": "늑구", "gold": "늑대와 강아지를 합성한 캐릭터 밈.", "text": "늑구 무사히 돌아왔다니 다행이다", "no": 58}
+{"case_id": "f3-b08", "set": "fresh_v3", "type": "B", "expression": "매끈매끈하다", "headword": "매끈매끈하다", "gold": "", "text": "새로 산 도자기 컵 표면이 매끈매끈하다", "no": 59}
+{"case_id": "f2-d05", "set": "fresh_v2", "type": "D", "expression": "중티", "headword": "중티", "gold": "'중국 티 난다'의 줄임말. 중국풍이 나서 촌스럽다고 낮잡아 이르는 말.", "text": "그 가방 너무 중티 나서 좀 별로야", "no": 60}
+{"case_id": "f3-d06", "set": "fresh_v3", "type": "D", "expression": "파워냉방", "headword": "파워냉방", "gold": "너무 '핫한' 사람이나 대상을 보고 하는 주접 멘트.", "text": "오늘 무대 의상 뭐야 너무 뜨거워 잔말 말고 파워냉방", "no": 61}
+{"case_id": "f2-u04", "set": "fresh_v2", "type": "U", "expression": "감튀 모임", "headword": "감튀 모임", "gold": "동네 사람끼리 감자튀김을 시켜 나눠 먹는 느슨한 모임.", "text": "감튀 모임에서 처음 본 이웃이랑 친해졌다", "no": 62}
+{"case_id": "f3-c01", "set": "fresh_v3", "type": "C", "expression": "테무인간", "headword": "테무인간", "gold": "겉모습만 그럴싸한 사람.", "text": "밤새 열심히 했는데 결과물이 이래 나 완전 테무인간이네", "no": 63}
+{"case_id": "f3-p01", "set": "fresh_v3", "type": "P", "expression": "", "headword": null, "gold": "", "text": "카페에서 빙수를 컵에 덜어 먹었다", "no": 64}
+{"case_id": "f2-a08", "set": "fresh_v2", "type": "A", "expression": "경도", "headword": "경도", "gold": "'경찰과 도둑' 놀이의 줄임말. 2030이 모여서 하는 술래잡기 모임.", "text": "오늘 경도 하다가 술래한테 잡혀서 감옥 갔음 ㅋㅋ", "no": 65}
+{"case_id": "f3-d05", "set": "fresh_v3", "type": "D", "expression": "파워냉방", "headword": "파워냉방", "gold": "더위에 지쳐 에어컨을 세게 틀라고 호통치듯 하는 말. 코미디빅리그 김용명의 대사 '잔말 말고 에어컨 파워냉방으로 틀어'가 다시 퍼졌다.", "text": "35도 실화냐 잔말 말고 에어컨 파워냉방으로 틀어", "no": 66}
+{"case_id": "f2-d06", "set": "fresh_v2", "type": "D", "expression": "중티", "headword": "중티", "gold": "과하고 화려한 중국풍을 키치한 매력으로 좋게 이르는 말.", "text": "요즘은 중티 나는 키치한 소품이 오히려 힙해", "no": 67}
+{"case_id": "f3-c05", "set": "fresh_v3", "type": "C", "expression": "손절미", "headword": "손절미", "gold": "관계를 쉽게 끊고 싶어지는 성향.", "text": "남 험담만 하는 사람은 손절미가 넘친다", "no": 68}
+{"case_id": "f3-c04", "set": "fresh_v3", "type": "C", "expression": "손절미", "headword": "손절미", "gold": "관계를 쉽게 끊고 싶어지는 성향.", "text": "너 맨날 약속 늦는 거 진짜 손절미 있다", "no": 69}
+{"case_id": "f3-u05", "set": "fresh_v3", "type": "U", "expression": "케케크롱", "headword": "케케크롱", "gold": "특별한 뜻 없이 아무 문장 끝에나 붙이는 추임새.", "text": "과제 마감 세 개 남음 케케크롱", "no": 70}
+{"case_id": "f2-a04", "set": "fresh_v2", "type": "A", "expression": "천연 위고비", "headword": "천연 위고비", "gold": "먹으면 식욕이 줄어든다고 소문난 음식(주로 반숙 달걀에 올리브유와 후추). 비만 치료제 위고비에 빗댄 말.", "text": "요즘 아침마다 천연 위고비 먹는 중인데 진짜 덜 먹게 됨", "no": 71}
+{"case_id": "f3-b01", "set": "fresh_v3", "type": "B", "expression": "면접 포기하겠습니다", "headword": "면접 포기하겠습니다", "gold": "", "text": "다른 회사에 합격해서 인사팀에 면접 포기하겠습니다라고 메일을 보냈다", "no": 72}
+{"case_id": "f2-c07", "set": "fresh_v2", "type": "C", "expression": "거제 야호", "headword": "거제 야호", "gold": "과장된 기대감이나 긍정적인 반응.", "text": "지각했다고 한 소리 들었는데 그냥 거제 야호~ 하고 넘김", "no": 73}
+{"case_id": "f3-u04", "set": "fresh_v3", "type": "U", "expression": "케케크롱", "headword": "케케크롱", "gold": "특별한 뜻 없이 아무 문장 끝에나 붙이는 추임새.", "text": "월요일인데 벌써 금요일 기다림 케케크롱", "no": 74}
+{"case_id": "f2-u01", "set": "fresh_v2", "type": "U", "expression": "볼꾸", "headword": "볼꾸", "gold": "볼펜 꾸미기. 볼펜을 스티커나 장식 부품으로 꾸미는 것.", "text": "요즘 볼꾸에 빠져서 볼펜만 열 자루 샀어", "no": 75}
+{"case_id": "f3-d01", "set": "fresh_v3", "type": "D", "expression": "딸깍", "headword": "딸깍", "gold": "큰 노력 없이 클릭 한 번 하듯 쉽게 결과를 얻는 것.", "text": "과제 AI한테 시키니까 딸깍 한 번에 끝났다", "no": 76}
+{"case_id": "f2-c06", "set": "fresh_v2", "type": "C", "expression": "라을라", "headword": "라을라", "gold": "머쓱한 실수를 넘길 때 쓰는 말.", "text": "강의가 너무 지루해서 계속 라을라 하품만 나옴", "no": 77}
+{"case_id": "f2-p03", "set": "fresh_v2", "type": "P", "expression": "", "headword": null, "gold": "", "text": "아이가 밤마다 하품을 크게 한다", "no": 78}
+{"case_id": "f2-c08", "set": "fresh_v2", "type": "C", "expression": "거제 야호", "headword": "거제 야호", "gold": "과장된 기대감이나 긍정적인 반응.", "text": "옷 이상하다고 놀리길래 웃으면서 거제 야호 해 줌", "no": 79}
+{"case_id": "f2-u07", "set": "fresh_v2", "type": "U", "expression": "젬민이", "headword": "젬민이", "gold": "사소한 결정까지 AI(제미나이)에 맡기는 사람.", "text": "점심 메뉴까지 AI한테 물어보는 너 완전 젬민이네", "no": 80}
+{"case_id": "f3-p02", "set": "fresh_v3", "type": "P", "expression": "", "headword": null, "gold": "", "text": "스위치를 켜자 방이 환해졌다", "no": 81}
+{"case_id": "f3-a06", "set": "fresh_v3", "type": "A", "expression": "감도 안 온다", "headword": "감도 안 온다", "gold": "지나치게 열심인 모습을 보고 '얼마나 ~하고 싶은지 감도 안 온다'처럼 놀리듯 감탄하며 그 행동을 강조하는 말.", "text": "주말에도 도서관 가는 거 보면 얼마나 합격하고 싶은지 감도 안 온다ㅋㅋ", "no": 82}
+{"case_id": "f3-p03", "set": "fresh_v3", "type": "P", "expression": "", "headword": null, "gold": "", "text": "동물원에서 늑대가 낮잠을 자고 있었다", "no": 83}
+{"case_id": "f3-s01", "set": "fresh_v3", "type": "S", "expression": "밥플릭스", "headword": "밥플릭스", "gold": "밥 먹으면서 틀어 놓고 보는 영상(밥+넷플릭스).", "text": "오늘 밥플릭스 뭐 볼지 추천 좀", "no": 84}
+{"case_id": "f2-b01", "set": "fresh_v2", "type": "B", "expression": "체포하겠어", "headword": "체포하겠어", "gold": "", "text": "그 범인은 내가 반드시 체포하겠어", "no": 85}
+{"case_id": "f3-p05", "set": "fresh_v3", "type": "P", "expression": "", "headword": null, "gold": "", "text": "친구가 내일 면접을 보러 서울에 간다", "no": 86}
+{"case_id": "f3-d02", "set": "fresh_v3", "type": "D", "expression": "딸깍", "headword": "딸깍", "gold": "AI로 손쉽게 찍어낸 결과물을 비꼬는 말('딸깍출판'처럼).", "text": "요즘 서점에 딸깍으로 찍어낸 책이 너무 많아서 짜증 난다", "no": 87}
+{"case_id": "f2-b02", "set": "fresh_v2", "type": "B", "expression": "빙하기", "headword": "빙하기", "gold": "", "text": "지구의 마지막 빙하기는 약 1만 년 전에 끝났다", "no": 88}
+{"case_id": "f2-d04", "set": "fresh_v2", "type": "D", "expression": "하룰라라", "headword": "하룰라라", "gold": "'하늘나라'를 귀엽게 바꾼 말. 하늘나라에 갈 만큼 좋다, 황홀하다는 뜻으로 쓴다.", "text": "콘서트 첫 줄에서 봤는데 하룰라라 그 자체였다", "no": 89}
+{"case_id": "f2-u02", "set": "fresh_v2", "type": "U", "expression": "볼꾸", "headword": "볼꾸", "gold": "볼펜 꾸미기. 볼펜을 스티커나 장식 부품으로 꾸미는 것.", "text": "다이소에서 스티커 사서 볼꾸 했다", "no": 90}
+{"case_id": "f2-u10", "set": "fresh_v2", "type": "U", "expression": "L을 가져가", "headword": "L을 가져가", "gold": "영어 'Take the L'을 옮긴 말. 졌으니 패배를 인정하라는 놀림.", "text": "내기에서 졌으면 깔끔하게 L을 가져가", "no": 91}
+{"case_id": "f3-u02", "set": "fresh_v3", "type": "U", "expression": "무지컬", "headword": "무지컬", "gold": "피지컬(몸)도 뇌지컬(머리)도 없는 사람을 놀리는 말(친한 사이의 농담).", "text": "너 줄넘기도 못 하고 구구단도 틀리냐 무지컬이네ㅋㅋ", "no": 92}
+{"case_id": "f2-c04", "set": "fresh_v2", "type": "C", "expression": "라을라", "headword": "라을라", "gold": "머쓱한 실수를 넘길 때 쓰는 말.", "text": "주말 출근이라니 라을라… 하품만 계속 나온다", "no": 93}
+{"case_id": "f2-a05", "set": "fresh_v2", "type": "A", "expression": "레드레드", "headword": "레드레드", "gold": "나쁘거나 위험한 것을 이르는 말. 코르티스 노래에서 퍼졌고, 좋은 것은 그린그린이라고 한다.", "text": "남친 생일 까먹은 건 진짜 레드레드다", "no": 94}
+{"case_id": "f3-b03", "set": "fresh_v3", "type": "B", "expression": "감도 안 온다", "headword": "감도 안 온다", "gold": "", "text": "이 수학 문제는 어떻게 풀어야 할지 감도 안 온다", "no": 95}
+{"case_id": "f3-a03", "set": "fresh_v3", "type": "A", "expression": "컵빙수", "headword": "컵빙수", "gold": "컵에 담아 1인분으로 파는 저가 빙수. 2025년 여름 저가 커피 브랜드에서 시작해 품절될 만큼 유행했다.", "text": "더워서 집 앞 카페에서 컵빙수 두 개 사 왔어", "no": 96}
+{"case_id": "f3-u09", "set": "fresh_v3", "type": "U", "expression": "나 왜 이 순간이 영원할 거 같지", "headword": "나 왜 이 순간이 영원할 거 같지", "gold": "드라마 <스물다섯 스물하나>의 로맨틱한 대사를 시험·야근처럼 끝나지 않을 것 같은 괴로운 순간에 비틀어 쓰는 말.", "text": "기말고사 문제 반도 못 풀었는데 나 왜 이 순간이 영원할 거 같지", "no": 97}
+{"case_id": "f3-d03", "set": "fresh_v3", "type": "D", "expression": "너무 불미스러운 일이 일어났어요", "headword": "너무 불미스러운 일이 일어났어요", "gold": "황당하거나 당황스러운 일이 생겼을 때 쓰는 말. 강아지에게 물을 쏟은 영상에서 퍼졌다.", "text": "라면 끓이다가 국물을 다 엎었다 너무 불미스러운 일이 일어났어요", "no": 98}

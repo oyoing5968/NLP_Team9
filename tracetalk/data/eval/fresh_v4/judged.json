@@ -1,0 +1,558 @@
+{
+"f4-m03": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-d09": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-b08": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-a08": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-m04": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-d01": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-u15": {
+"single": "o"
+},
+"f4-d11": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-c14": {
+"full": "x",
+"single": "x",
+"noposts": "x"
+},
+"f4-d10": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-r14": {
+"full": "o",
+"single": "x",
+"mixed": "o"
+},
+"f4-u11": {
+"full": "o",
+"single": "x",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-a03": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-a22": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-c02": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-a15": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-u12": {
+"single": "x"
+},
+"f4-u22": {
+"full": "o",
+"single": "o",
+"mixed": "o"
+},
+"f4-r11": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-r02": {
+"single": "o"
+},
+"f4-r06": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-c15": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-d05": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-c01": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-r16": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-b01": {
+"full": "o",
+"single": "x",
+"mixed": "o"
+},
+"f4-r09": {
+"single": "x"
+},
+"f4-d07": {
+"full": "o",
+"single": "x",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-u03": {
+"full": "o",
+"single": "x",
+"mixed": "o"
+},
+"f4-a01": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-c09": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-r22": {
+"full": "x",
+"single": "o",
+"mixed": "x"
+},
+"f4-c03": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-u09": {
+"single": "o"
+},
+"f4-a25": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-r07": {
+"single": "x"
+},
+"f4-a16": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-a13": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-u17": {
+"single": "x"
+},
+"f4-c10": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-r21": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-d03": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-a19": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-c04": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-a04": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-u10": {
+"full": "o",
+"mixed": "o"
+},
+"f4-a05": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-m02": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-c12": {
+"single": "x"
+},
+"f4-b07": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-u07": {
+"full": "x",
+"single": "x",
+"mixed": "x"
+},
+"f4-r18": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-a14": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-u01": {
+"full": "o",
+"single": "o",
+"mixed": "o"
+},
+"f4-u21": {
+"full": "o",
+"single": "x",
+"mixed": "o"
+},
+"f4-r01": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-a06": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-a02": {
+"single": "o"
+},
+"f4-r17": {
+"single": "o"
+},
+"f4-a17": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-d12": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-u04": {
+"single": "x"
+},
+"f4-a12": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-r15": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-b06": {
+"full": "o",
+"single": "x",
+"noposts": "x",
+"mixed": "o"
+},
+"f4-d06": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-r10": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-a11": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-a07": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-u06": {
+"full": "o",
+"single": "o",
+"mixed": "o"
+},
+"f4-c06": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-a10": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-a09": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-b09": {
+"full": "x",
+"single": "x"
+},
+"f4-r13": {
+"full": "o",
+"single": "x",
+"mixed": "o"
+},
+"f4-a21": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-a20": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-r04": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-u08": {
+"full": "o",
+"single": "o",
+"mixed": "o"
+},
+"f4-c16": {
+"full": "x",
+"single": "o",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-r20": {
+"full": "x",
+"single": "x",
+"mixed": "x"
+},
+"f4-b04": {
+"full": "o",
+"single": "x",
+"mixed": "o"
+},
+"f4-r03": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-u02": {
+"full": "x",
+"single": "x",
+"mixed": "x"
+},
+"f4-u16": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-d02": {
+"full": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-a18": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-r05": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-d08": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-u14": {
+"full": "x",
+"single": "x",
+"mixed": "x"
+},
+"f4-u13": {
+"full": "o",
+"single": "o",
+"mixed": "o"
+},
+"f4-r08": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-b05": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-c08": {
+"single": "x"
+},
+"f4-a24": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-c07": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-d04": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-c13": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+},
+"f4-u20": {
+"full": "o",
+"single": "o",
+"mixed": "o"
+},
+"f4-u05": {
+"single": "x"
+},
+"f4-u19": {
+"single": "x"
+},
+"f4-a23": {
+"full": "o",
+"single": "o",
+"noposts": "o",
+"mixed": "o"
+},
+"f4-c11": {
+"single": "x"
+},
+"f4-c05": {
+"full": "x",
+"single": "x",
+"noposts": "x",
+"mixed": "x"
+}
+}

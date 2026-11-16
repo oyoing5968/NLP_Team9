@@ -1,0 +1,2904 @@
+{
+"meaning": {
+"1": {
+"a": [
+"gemini_web"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"full",
+"noposts",
+"mixed"
+],
+"e": [
+"single"
+]
+},
+"2": {
+"a": [
+"gemini"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"gemini1",
+"full",
+"noposts",
+"mixed"
+]
+},
+"3": {
+"a": [
+"single"
+],
+"b": [
+"full",
+"noposts",
+"mixed"
+]
+},
+"4": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"gemini"
+],
+"e": [
+"gemini1"
+]
+},
+"5": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini_web"
+],
+"e": [
+"gemini"
+]
+},
+"6": {
+"a": [
+"gemini_web"
+],
+"b": [
+"gemini"
+],
+"c": [
+"full",
+"noposts",
+"mixed"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini1"
+]
+},
+"7": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single"
+]
+},
+"8": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"gemini"
+]
+},
+"9": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"full",
+"noposts"
+],
+"e": [
+"single"
+]
+},
+"10": {
+"a": [
+"gemini1",
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single"
+]
+},
+"11": {
+"a": [
+"full",
+"mixed"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"single"
+]
+},
+"12": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini"
+],
+"d": [
+"single"
+],
+"e": [
+"full",
+"noposts",
+"mixed"
+]
+},
+"13": {
+"a": [
+"single"
+],
+"b": [
+"full",
+"noposts",
+"mixed"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"gemini_web"
+],
+"e": [
+"gemini"
+]
+},
+"14": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini_web"
+]
+},
+"15": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"gemini"
+]
+},
+"16": {
+"a": [
+"single"
+],
+"b": [
+"gemini"
+],
+"c": [
+"full",
+"noposts",
+"mixed"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"gemini_web"
+]
+},
+"17": {
+"a": [
+"single"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"gemini_web"
+]
+},
+"18": {
+"a": [
+"gemini_web"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"single"
+],
+"e": [
+"full",
+"mixed"
+]
+},
+"19": {
+"a": [
+"gemini"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"full",
+"noposts",
+"mixed"
+],
+"e": [
+"gemini1"
+]
+},
+"20": {
+"a": [
+"single"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"gemini"
+]
+},
+"21": {
+"a": [
+"gemini1"
+],
+"b": [
+"single"
+],
+"c": [
+"full",
+"noposts",
+"mixed"
+],
+"d": [
+"gemini"
+],
+"e": [
+"gemini_web"
+]
+},
+"22": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini1"
+]
+},
+"23": {},
+"24": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"single"
+],
+"e": [
+"full",
+"noposts",
+"mixed"
+]
+},
+"25": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini"
+],
+"e": [
+"gemini1"
+]
+},
+"26": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini1",
+"full",
+"noposts",
+"mixed"
+]
+},
+"27": {
+"a": [
+"full",
+"mixed"
+],
+"b": [
+"single"
+]
+},
+"28": {
+"a": [
+"gemini1"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"gemini"
+]
+},
+"29": {
+"a": [
+"gemini_web"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini"
+],
+"d": [
+"full",
+"noposts",
+"mixed"
+],
+"e": [
+"gemini1"
+]
+},
+"30": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single"
+],
+"e": [
+"full",
+"mixed"
+]
+},
+"31": {
+"a": [
+"gemini"
+],
+"b": [
+"full",
+"noposts",
+"mixed"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini_web"
+],
+"e": [
+"gemini1"
+]
+},
+"32": {
+"a": [
+"gemini"
+],
+"b": [
+"full",
+"single",
+"noposts",
+"mixed"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"gemini_web"
+]
+},
+"33": {
+"a": [
+"full",
+"mixed"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini_web"
+],
+"e": [
+"gemini"
+]
+},
+"34": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"full",
+"single",
+"noposts",
+"mixed"
+],
+"d": [
+"gemini_web"
+]
+},
+"35": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single"
+]
+},
+"36": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"gemini"
+],
+"e": [
+"gemini_web"
+]
+},
+"37": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini"
+],
+"d": [
+"single"
+]
+},
+"38": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"full",
+"noposts",
+"mixed"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini"
+]
+},
+"39": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"single"
+]
+},
+"40": {
+"a": [
+"gemini_web"
+],
+"b": [
+"gemini"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini1"
+]
+},
+"41": {
+"a": [
+"gemini1"
+],
+"b": [
+"full",
+"single",
+"noposts",
+"mixed"
+],
+"c": [
+"gemini"
+],
+"d": [
+"gemini_web"
+]
+},
+"42": {
+"a": [
+"gemini"
+],
+"b": [
+"full",
+"noposts",
+"mixed"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"gemini_web"
+]
+},
+"43": {},
+"44": {},
+"45": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"full",
+"noposts",
+"mixed"
+],
+"d": [
+"gemini"
+],
+"e": [
+"single"
+]
+},
+"46": {
+"a": [
+"gemini1"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini"
+],
+"d": [
+"full",
+"noposts",
+"mixed"
+],
+"e": [
+"gemini_web"
+]
+},
+"47": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single"
+],
+"e": [
+"full",
+"noposts",
+"mixed"
+]
+},
+"48": {
+"a": [
+"gemini_web"
+],
+"b": [
+"full",
+"noposts",
+"mixed"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"gemini"
+]
+},
+"49": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini"
+],
+"c": [
+"full",
+"mixed"
+],
+"d": [
+"gemini_web"
+]
+},
+"50": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"gemini_web"
+],
+"e": [
+"gemini"
+]
+},
+"51": {
+"a": [
+"gemini1",
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini_web"
+]
+},
+"52": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini"
+],
+"d": [
+"single"
+]
+},
+"53": {
+"a": [
+"single"
+],
+"b": [
+"full",
+"noposts",
+"mixed"
+]
+},
+"54": {
+"a": [
+"gemini_web"
+],
+"b": [
+"gemini"
+],
+"c": [
+"full",
+"mixed"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini1"
+]
+},
+"55": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini1"
+]
+},
+"56": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"full",
+"single",
+"noposts",
+"mixed"
+]
+},
+"57": {
+"a": [
+"single"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"full",
+"mixed"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"gemini"
+]
+},
+"58": {
+"a": [
+"gemini_web"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini1"
+]
+},
+"59": {
+"a": [
+"full",
+"mixed"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"gemini"
+],
+"e": [
+"single"
+]
+},
+"60": {
+"a": [
+"gemini_web"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"gemini"
+],
+"e": [
+"full",
+"noposts",
+"mixed"
+]
+},
+"61": {
+"a": [
+"gemini_web"
+],
+"b": [
+"full",
+"noposts",
+"mixed"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini"
+]
+},
+"62": {
+"a": [
+"gemini_web"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"gemini"
+]
+},
+"63": {
+"a": [
+"gemini_web"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini"
+]
+},
+"64": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini1",
+"full",
+"noposts",
+"mixed"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single"
+]
+},
+"65": {},
+"66": {
+"a": [
+"gemini1"
+],
+"b": [
+"single"
+],
+"c": [
+"full",
+"noposts",
+"mixed"
+],
+"d": [
+"gemini"
+],
+"e": [
+"gemini_web"
+]
+},
+"67": {
+"a": [
+"single"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"gemini"
+]
+},
+"68": {},
+"69": {
+"a": [
+"gemini_web"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"single"
+],
+"d": [
+"full",
+"noposts",
+"mixed"
+],
+"e": [
+"gemini"
+]
+},
+"70": {},
+"71": {
+"a": [
+"gemini"
+],
+"b": [
+"single"
+],
+"c": [
+"full",
+"noposts",
+"mixed"
+],
+"d": [
+"gemini_web"
+],
+"e": [
+"gemini1"
+]
+},
+"72": {
+"a": [
+"full",
+"mixed"
+],
+"b": [
+"single"
+],
+"c": [
+"noposts"
+]
+},
+"73": {
+"a": [
+"single"
+],
+"b": [
+"gemini"
+],
+"c": [
+"full",
+"noposts",
+"mixed"
+],
+"d": [
+"gemini_web"
+],
+"e": [
+"gemini1"
+]
+},
+"74": {
+"a": [
+"gemini1",
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single"
+]
+},
+"75": {
+"a": [
+"gemini1"
+],
+"b": [
+"full",
+"noposts",
+"mixed"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini"
+],
+"e": [
+"gemini_web"
+]
+},
+"76": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single"
+],
+"e": [
+"full",
+"noposts",
+"mixed"
+]
+},
+"77": {
+"a": [
+"gemini"
+],
+"b": [
+"full",
+"mixed"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"gemini_web"
+]
+},
+"78": {
+"a": [
+"gemini_web"
+],
+"b": [
+"gemini"
+],
+"c": [
+"full",
+"noposts",
+"mixed"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"single"
+]
+},
+"79": {
+"a": [
+"gemini_web"
+],
+"b": [
+"single"
+],
+"c": [
+"full",
+"noposts",
+"mixed"
+],
+"d": [
+"gemini"
+],
+"e": [
+"gemini1"
+]
+},
+"80": {
+"a": [
+"single"
+],
+"b": [
+"gemini1",
+"full",
+"noposts",
+"mixed"
+],
+"c": [
+"gemini"
+],
+"d": [
+"gemini_web"
+]
+},
+"81": {
+"a": [
+"full",
+"single"
+]
+},
+"82": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"full",
+"mixed"
+],
+"d": [
+"gemini"
+],
+"e": [
+"single"
+]
+},
+"83": {
+"a": [
+"gemini_web"
+],
+"b": [
+"full",
+"noposts",
+"mixed"
+],
+"c": [
+"gemini"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"single"
+]
+},
+"84": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini1"
+]
+},
+"85": {},
+"86": {
+"a": [
+"gemini_web"
+],
+"b": [
+"full",
+"noposts",
+"mixed"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"gemini"
+],
+"e": [
+"single"
+]
+},
+"87": {
+"a": [
+"full",
+"mixed"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini"
+],
+"e": [
+"gemini_web"
+]
+},
+"88": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"single"
+],
+"e": [
+"full",
+"noposts",
+"mixed"
+]
+},
+"89": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini_web"
+]
+},
+"90": {
+"a": [
+"gemini1"
+],
+"b": [
+"full",
+"mixed"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini"
+]
+},
+"91": {
+"a": [
+"single"
+],
+"b": [
+"full",
+"mixed"
+]
+},
+"92": {
+"a": [
+"gemini"
+],
+"b": [
+"single"
+],
+"c": [
+"full",
+"noposts",
+"mixed"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"gemini_web"
+]
+},
+"93": {
+"a": [
+"gemini"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"gemini_web"
+],
+"e": [
+"full",
+"mixed"
+]
+},
+"94": {},
+"95": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"full",
+"noposts",
+"mixed"
+],
+"e": [
+"single"
+]
+},
+"96": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"full",
+"noposts",
+"mixed"
+]
+},
+"97": {
+"a": [
+"gemini"
+],
+"b": [
+"full",
+"noposts",
+"mixed"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"gemini_web"
+]
+},
+"98": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini"
+],
+"c": [
+"full",
+"noposts",
+"mixed"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini_web"
+]
+},
+"99": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"gemini"
+],
+"e": [
+"single"
+]
+},
+"100": {
+"a": [
+"gemini1"
+],
+"b": [
+"full",
+"mixed"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"gemini"
+],
+"e": [
+"single"
+]
+},
+"101": {
+"a": [
+"single"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"gemini"
+],
+"e": [
+"full",
+"mixed"
+]
+},
+"102": {
+"a": [
+"gemini1"
+],
+"b": [
+"full",
+"single",
+"noposts",
+"mixed"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"gemini"
+]
+},
+"103": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"single"
+]
+},
+"104": {
+"a": [
+"single"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"gemini1"
+]
+},
+"105": {},
+"106": {
+"a": [
+"single"
+],
+"b": [
+"full",
+"noposts",
+"mixed"
+],
+"c": [
+"gemini"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"gemini_web"
+]
+},
+"107": {
+"a": [
+"gemini"
+],
+"b": [
+"full",
+"noposts",
+"mixed"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini_web"
+],
+"e": [
+"gemini1"
+]
+},
+"108": {
+"a": [
+"gemini"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"gemini_web"
+],
+"e": [
+"full",
+"noposts",
+"mixed"
+]
+},
+"109": {
+"a": [
+"gemini"
+],
+"b": [
+"full",
+"noposts",
+"mixed"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini_web"
+]
+},
+"110": {
+"a": [
+"single"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"gemini"
+],
+"e": [
+"full",
+"mixed"
+]
+},
+"111": {
+"a": [
+"single"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini"
+],
+"d": [
+"gemini_web"
+]
+},
+"112": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"single"
+]
+},
+"113": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini"
+]
+},
+"114": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini"
+]
+},
+"115": {},
+"116": {
+"a": [
+"gemini_web"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"single"
+],
+"d": [
+"full",
+"noposts",
+"mixed"
+],
+"e": [
+"gemini"
+]
+},
+"117": {
+"a": [
+"gemini_web"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini"
+],
+"d": [
+"gemini1"
+]
+},
+"118": {
+"a": [
+"gemini1"
+],
+"b": [
+"single"
+],
+"c": [
+"full",
+"noposts",
+"mixed"
+],
+"d": [
+"gemini_web"
+],
+"e": [
+"gemini"
+]
+}
+},
+"origin": {
+"4": {
+"a": [
+"gemini_web"
+],
+"b": [
+"full",
+"noposts",
+"mixed"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"gemini"
+]
+},
+"11": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single"
+],
+"e": [
+"full",
+"mixed"
+]
+},
+"12": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"single"
+],
+"d": [
+"full",
+"noposts",
+"mixed"
+],
+"e": [
+"gemini"
+]
+},
+"13": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini"
+],
+"c": [
+"single"
+],
+"d": [
+"full",
+"noposts",
+"mixed"
+],
+"e": [
+"gemini_web"
+]
+},
+"15": {
+"a": [
+"gemini_web"
+],
+"b": [
+"gemini"
+],
+"c": [
+"single"
+],
+"d": [
+"full",
+"mixed"
+],
+"e": [
+"gemini1"
+],
+"f": [
+"noposts"
+]
+},
+"16": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini"
+]
+},
+"18": {
+"a": [
+"gemini1"
+],
+"b": [
+"full",
+"mixed"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"gemini"
+],
+"e": [
+"single"
+]
+},
+"19": {
+"a": [
+"full",
+"mixed"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"gemini"
+],
+"e": [
+"single"
+],
+"f": [
+"noposts"
+]
+},
+"20": {
+"a": [
+"single"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"gemini"
+]
+},
+"25": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"single"
+],
+"d": [
+"full",
+"mixed"
+],
+"e": [
+"gemini"
+],
+"f": [
+"noposts"
+]
+},
+"26": {
+"a": [
+"gemini_web"
+],
+"b": [
+"gemini"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"full",
+"noposts",
+"mixed"
+]
+},
+"28": {
+"a": [
+"gemini_web"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini"
+],
+"d": [
+"single"
+]
+},
+"31": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"gemini_web"
+]
+},
+"32": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single",
+"noposts"
+],
+"e": [
+"full",
+"mixed"
+]
+},
+"33": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"single"
+],
+"d": [
+"full",
+"mixed"
+],
+"e": [
+"gemini"
+]
+},
+"34": {
+"a": [
+"full",
+"mixed"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"single",
+"noposts"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"gemini"
+]
+},
+"35": {
+"a": [
+"gemini"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"gemini_web"
+]
+},
+"36": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini1"
+]
+},
+"37": {
+"a": [
+"single"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"gemini"
+]
+},
+"38": {
+"a": [
+"gemini1"
+],
+"b": [
+"noposts"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini_web"
+],
+"e": [
+"gemini"
+],
+"f": [
+"full",
+"mixed"
+]
+},
+"41": {
+"a": [
+"gemini_web"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini"
+],
+"d": [
+"full",
+"mixed"
+],
+"e": [
+"single",
+"noposts"
+]
+},
+"42": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single"
+],
+"e": [
+"full",
+"noposts",
+"mixed"
+]
+},
+"46": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"noposts"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini"
+],
+"f": [
+"full",
+"mixed"
+]
+},
+"47": {
+"a": [
+"gemini1"
+],
+"b": [
+"noposts"
+],
+"c": [
+"gemini"
+],
+"d": [
+"single"
+],
+"e": [
+"full",
+"mixed"
+],
+"f": [
+"gemini_web"
+]
+},
+"48": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"single"
+],
+"d": [
+"full",
+"noposts",
+"mixed"
+],
+"e": [
+"gemini_web"
+]
+},
+"49": {
+"a": [
+"full",
+"mixed"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini"
+],
+"d": [
+"gemini_web"
+]
+},
+"51": {
+"a": [
+"single"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"full",
+"noposts",
+"mixed"
+],
+"e": [
+"gemini_web"
+]
+},
+"54": {
+"a": [
+"full",
+"mixed"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"gemini"
+],
+"e": [
+"gemini1"
+]
+},
+"55": {
+"a": [
+"full",
+"mixed"
+],
+"b": [
+"noposts"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"gemini"
+],
+"e": [
+"single"
+],
+"f": [
+"gemini1"
+]
+},
+"56": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"single",
+"noposts"
+],
+"e": [
+"full",
+"mixed"
+]
+},
+"57": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini_web"
+],
+"e": [
+"full",
+"mixed"
+]
+},
+"58": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini1"
+]
+},
+"59": {
+"a": [
+"single"
+],
+"b": [
+"gemini"
+],
+"c": [
+"full",
+"mixed"
+],
+"d": [
+"gemini_web"
+],
+"e": [
+"gemini1"
+]
+},
+"60": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"gemini"
+]
+},
+"62": {
+"a": [
+"gemini"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"gemini_web"
+]
+},
+"63": {
+"a": [
+"gemini_web"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini"
+],
+"d": [
+"single"
+]
+},
+"64": {
+"a": [
+"gemini_web"
+],
+"b": [
+"full",
+"noposts",
+"mixed"
+],
+"c": [
+"gemini"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"single"
+]
+},
+"69": {
+"a": [
+"gemini_web"
+],
+"b": [
+"full",
+"mixed"
+],
+"c": [
+"noposts"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"gemini"
+],
+"f": [
+"single"
+]
+},
+"71": {
+"a": [
+"gemini_web"
+],
+"b": [
+"gemini"
+],
+"c": [
+"full",
+"mixed"
+],
+"d": [
+"noposts"
+],
+"e": [
+"gemini1"
+],
+"f": [
+"single"
+]
+},
+"74": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"noposts"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"single"
+],
+"f": [
+"full",
+"mixed"
+]
+},
+"76": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"full",
+"noposts",
+"mixed"
+],
+"e": [
+"single"
+]
+},
+"78": {
+"a": [
+"noposts"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"full",
+"mixed"
+],
+"f": [
+"gemini"
+]
+},
+"80": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"gemini"
+],
+"e": [
+"gemini1"
+]
+},
+"82": {
+"a": [
+"gemini"
+],
+"b": [
+"full",
+"mixed"
+],
+"c": [
+"single"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"gemini_web"
+]
+},
+"86": {
+"a": [
+"gemini_web"
+],
+"b": [
+"full",
+"noposts",
+"mixed"
+],
+"c": [
+"gemini"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"single"
+]
+},
+"87": {
+"a": [
+"single"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini1"
+],
+"d": [
+"full",
+"mixed"
+],
+"e": [
+"gemini_web"
+]
+},
+"89": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini1"
+]
+},
+"90": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single"
+],
+"e": [
+"full",
+"mixed"
+]
+},
+"92": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"single"
+],
+"c": [
+"gemini"
+],
+"d": [
+"gemini1"
+],
+"e": [
+"gemini_web"
+]
+},
+"97": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini1"
+]
+},
+"98": {
+"a": [
+"gemini1"
+],
+"b": [
+"gemini"
+],
+"c": [
+"full",
+"mixed"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini_web"
+],
+"f": [
+"noposts"
+]
+},
+"100": {
+"a": [
+"gemini"
+],
+"b": [
+"full",
+"mixed"
+],
+"c": [
+"gemini_web"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini1"
+]
+},
+"102": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"full",
+"mixed"
+],
+"d": [
+"single",
+"noposts"
+],
+"e": [
+"gemini_web"
+]
+},
+"104": {
+"a": [
+"single"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini"
+],
+"d": [
+"gemini_web"
+]
+},
+"107": {
+"a": [
+"gemini_web"
+],
+"b": [
+"noposts"
+],
+"c": [
+"single"
+],
+"d": [
+"full",
+"mixed"
+],
+"e": [
+"gemini"
+],
+"f": [
+"gemini1"
+]
+},
+"114": {
+"a": [
+"gemini_web"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"gemini"
+]
+},
+"116": {
+"a": [
+"full",
+"noposts",
+"mixed"
+],
+"b": [
+"gemini_web"
+],
+"c": [
+"gemini"
+],
+"d": [
+"single"
+],
+"e": [
+"gemini1"
+]
+},
+"118": {
+"a": [
+"gemini"
+],
+"b": [
+"gemini1"
+],
+"c": [
+"single"
+],
+"d": [
+"full",
+"mixed"
+],
+"e": [
+"noposts"
+],
+"f": [
+"gemini_web"
+]
+}
+}
+}

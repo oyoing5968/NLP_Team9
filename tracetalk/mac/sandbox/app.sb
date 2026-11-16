@@ -1,0 +1,25 @@
+(version 1)
+; TraceTalk tools and the screen server (mac/run.sh). The system stays readable as usual; the user's own files
+; are not, except the project folder (ROOT) and its runtime (RUNTIME: the same folder's _mac_runtime, or where that
+; link points before the move). Nothing is written outside them. Network: this computer only (localhost) - the screen
+; listens on 127.0.0.1 and talks to the Mac's Ollama on 11435 (tests run fixture servers on other ports); no other host.
+(allow default)
+(deny file-read* file-write* (subpath "/Users") (subpath "/Volumes"))
+(allow file-read-metadata (literal "/Users") (literal (param "HOME_DIR")) (literal (param "PARENT"))
+                          (literal (param "RUNTIME_PARENT"))
+                          ; v16: every folder above the project (mac/run.sh UP0-UP15): path lookups only, wherever it is unpacked
+                          (literal (param "UP0")) (literal (param "UP1")) (literal (param "UP2")) (literal (param "UP3")) (literal (param "UP4")) (literal (param "UP5")) (literal (param "UP6")) (literal (param "UP7")) (literal (param "UP8")) (literal (param "UP9"))
+                          (literal (param "UP10")) (literal (param "UP11")) (literal (param "UP12")) (literal (param "UP13")) (literal (param "UP14")) (literal (param "UP15")))
+(deny file-write*)
+(allow file-write* (literal "/dev/null") (literal "/dev/tty") (regex #"^/dev/fd/"))
+(allow file-read* file-write* (subpath (param "ROOT")) (subpath (param "RUNTIME")))
+(deny network*)
+(allow network-bind (local ip "localhost:*"))
+(allow network-inbound (local ip "localhost:*"))
+(allow network-outbound (remote ip "localhost:*"))
+(allow network-outbound (remote unix-socket))
+; 11-09: no name lookups either. Asking the Mac's resolver (mDNSResponder) sends the name to the network's DNS server
+; even though this process cannot connect out itself; everything here uses 127.0.0.1, and "localhost" still resolves
+; from /etc/hosts. Also closed: asking macOS to download on this process's behalf (nsurlsessiond).
+(deny network-outbound (literal "/private/var/run/mDNSResponder"))
+(deny mach-lookup (global-name "com.apple.dnssd.service") (global-name "com.apple.nsurlsessiond"))

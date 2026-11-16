@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1066 382" width="1066" height="382" role="img" aria-label="TraceTalk 결과: 같은 4B에서 MAD는 확신하고 틀린 뜻을 35에서 13으로 줄이고 유래 맞힘을 20에서 38로 늘려 Gemini(22)보다 많다. 뜻 전체는 Gemini가 앞선다(112 대 73). 11월에 새로 생긴 말 18문장에서도 Gemini 18, MAD 11, 4B 단독 8.">
+<rect width="1066" height="382" fill="#fcfcfb"/>
+<rect x="24.0" y="22" width="12" height="12" rx="2" fill="#1baf7a"/>
+<text x="42.0" y="33.0" font-size="13" fill="#52514e" text-anchor="start" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">4B 한 번에 판단</text>
+<rect x="162.3" y="22" width="12" height="12" rx="2" fill="#2a78d6"/>
+<text x="180.3" y="33.0" font-size="13" fill="#52514e" text-anchor="start" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">4B + MAD (TraceTalk)</text>
+<rect x="352.6" y="22" width="12" height="12" rx="2" fill="#eb6834"/>
+<text x="370.6" y="33.0" font-size="13" fill="#52514e" text-anchor="start" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">Gemini 3.8 (웹 끔)</text>
+<text x="24.0" y="64.0" font-size="15" fill="#0b0b0b" text-anchor="start" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">뜻을 맞힘</text>
+<text x="24.0" y="82.0" font-size="12" fill="#898781" text-anchor="start" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">fresh_v4 118문장</text>
+<line x1="24" y1="116.0" x2="210" y2="116.0" stroke="#e1e0d9" stroke-width="1"/>
+<line x1="24" y1="286" x2="210" y2="286" stroke="#c3c2b7" stroke-width="1"/>
+<path d="M43.0,286.0 V190.6 Q43.0,186.6 47.0,186.6 H63.0 Q67.0,186.6 67.0,190.6 V286.0 Z" fill="#1baf7a"/>
+<text x="55.0" y="180.6" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">69</text>
+<text x="55.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">4B 단독</text>
+<path d="M105.0,286.0 V184.8 Q105.0,180.8 109.0,180.8 H125.0 Q129.0,180.8 129.0,184.8 V286.0 Z" fill="#2a78d6"/>
+<text x="117.0" y="174.8" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">73</text>
+<text x="117.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">4B+MAD</text>
+<path d="M167.0,286.0 V128.6 Q167.0,124.6 171.0,124.6 H187.0 Q191.0,124.6 191.0,128.6 V286.0 Z" fill="#eb6834"/>
+<text x="179.0" y="118.6" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">112</text>
+<text x="179.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">Gemini</text>
+<text x="232.0" y="64.0" font-size="15" fill="#0b0b0b" text-anchor="start" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">DB에 뜻이 있는 말</text>
+<text x="232.0" y="82.0" font-size="12" fill="#898781" text-anchor="start" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">fresh_v4 A·D·P 45문장</text>
+<line x1="232" y1="116.0" x2="418" y2="116.0" stroke="#e1e0d9" stroke-width="1"/>
+<line x1="232" y1="286" x2="418" y2="286" stroke="#c3c2b7" stroke-width="1"/>
+<path d="M251.0,286.0 V131.3 Q251.0,127.3 255.0,127.3 H271.0 Q275.0,127.3 275.0,131.3 V286.0 Z" fill="#1baf7a"/>
+<text x="263.0" y="121.3" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">42</text>
+<text x="263.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">4B 단독</text>
+<path d="M313.0,286.0 V127.6 Q313.0,123.6 317.0,123.6 H333.0 Q337.0,123.6 337.0,127.6 V286.0 Z" fill="#2a78d6"/>
+<text x="325.0" y="117.6" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">43</text>
+<text x="325.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">4B+MAD</text>
+<path d="M375.0,286.0 V120.0 Q375.0,116.0 379.0,116.0 H395.0 Q399.0,116.0 399.0,120.0 V286.0 Z" fill="#eb6834"/>
+<text x="387.0" y="110.0" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">45</text>
+<text x="387.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">Gemini</text>
+<text x="232.0" y="326.0" font-size="12" fill="#898781" text-anchor="start" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">Gemini 웹 켬 44</text>
+<text x="440.0" y="64.0" font-size="15" fill="#0b0b0b" text-anchor="start" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">확신하고 틀린 뜻</text>
+<text x="440.0" y="82.0" font-size="12" fill="#898781" text-anchor="start" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">118문장 · 적을수록 좋음</text>
+<line x1="440" y1="116.0" x2="626" y2="116.0" stroke="#e1e0d9" stroke-width="1"/>
+<line x1="440" y1="286" x2="626" y2="286" stroke="#c3c2b7" stroke-width="1"/>
+<path d="M459.0,286.0 V239.6 Q459.0,235.6 463.0,235.6 H479.0 Q483.0,235.6 483.0,239.6 V286.0 Z" fill="#1baf7a"/>
+<text x="471.0" y="229.6" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">35</text>
+<text x="471.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">4B 단독</text>
+<path d="M521.0,286.0 V271.3 Q521.0,267.3 525.0,267.3 H541.0 Q545.0,267.3 545.0,271.3 V286.0 Z" fill="#2a78d6"/>
+<text x="533.0" y="261.3" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">13</text>
+<text x="533.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">4B+MAD</text>
+
+<text x="595.0" y="280.0" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">0</text>
+<text x="595.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">Gemini</text>
+<text x="648.0" y="64.0" font-size="15" fill="#0b0b0b" text-anchor="start" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">유래를 맞힘</text>
+<text x="648.0" y="82.0" font-size="12" fill="#898781" text-anchor="start" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">유래 정답이 있는 58문장</text>
+<line x1="648" y1="116.0" x2="834" y2="116.0" stroke="#e1e0d9" stroke-width="1"/>
+<line x1="648" y1="286" x2="834" y2="286" stroke="#c3c2b7" stroke-width="1"/>
+<path d="M667.0,286.0 V231.4 Q667.0,227.4 671.0,227.4 H687.0 Q691.0,227.4 691.0,231.4 V286.0 Z" fill="#1baf7a"/>
+<text x="679.0" y="221.4" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">20</text>
+<text x="679.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">4B 단독</text>
+<path d="M729.0,286.0 V178.6 Q729.0,174.6 733.0,174.6 H749.0 Q753.0,174.6 753.0,178.6 V286.0 Z" fill="#2a78d6"/>
+<text x="741.0" y="168.6" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">38</text>
+<text x="741.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">4B+MAD</text>
+<path d="M791.0,286.0 V225.5 Q791.0,221.5 795.0,221.5 H811.0 Q815.0,221.5 815.0,225.5 V286.0 Z" fill="#eb6834"/>
+<text x="803.0" y="215.5" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">22</text>
+<text x="803.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">Gemini</text>
+<text x="648.0" y="326.0" font-size="12" fill="#898781" text-anchor="start" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">Gemini 웹 켬 27</text>
+<text x="856.0" y="64.0" font-size="15" fill="#0b0b0b" text-anchor="start" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">새로 생긴 말의 뜻</text>
+<text x="856.0" y="82.0" font-size="12" fill="#898781" text-anchor="start" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">fresh_v5 18문장 · 11월 새 말</text>
+<line x1="856" y1="116.0" x2="1042" y2="116.0" stroke="#e1e0d9" stroke-width="1"/>
+<line x1="856" y1="286" x2="1042" y2="286" stroke="#c3c2b7" stroke-width="1"/>
+<path d="M875.0,286.0 V214.4 Q875.0,210.4 879.0,210.4 H895.0 Q899.0,210.4 899.0,214.4 V286.0 Z" fill="#1baf7a"/>
+<text x="887.0" y="204.4" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">8</text>
+<text x="887.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">4B 단독</text>
+<path d="M937.0,286.0 V186.1 Q937.0,182.1 941.0,182.1 H957.0 Q961.0,182.1 961.0,186.1 V286.0 Z" fill="#2a78d6"/>
+<text x="949.0" y="176.1" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">11</text>
+<text x="949.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">4B+MAD</text>
+<path d="M999.0,286.0 V120.0 Q999.0,116.0 1003.0,116.0 H1019.0 Q1023.0,116.0 1023.0,120.0 V286.0 Z" fill="#eb6834"/>
+<text x="1011.0" y="110.0" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">18</text>
+<text x="1011.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">Gemini</text>
+<text x="856.0" y="326.0" font-size="12" fill="#898781" text-anchor="start" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">확신 오답: 단독 6·MAD 2·Gemini 0</text>
+<text x="24.0" y="368.0" font-size="11" fill="#898781" text-anchor="start" font-weight="400" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">출처를 가린 채점(채점자 둘 + 갈린 것은 셋째). fresh_v4: Gemini 3.8 · fresh_v5: 2026-11-09 Gemini 답. 답별 판정: eval/results/*.csv, docs/RESULTS.md</text>
+</svg>

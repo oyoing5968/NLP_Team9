@@ -1,0 +1,8 @@
+{"id": "demo-01", "text": "야르~ 맛있다", "family": "demo:야르", "split": "diagnostic"}
+{"id": "demo-02", "text": "쟤 방금 긁힌거 같은데?", "family": "demo:긁히다", "split": "diagnostic"}
+{"id": "demo-03", "text": "아누누님 우리엄마를 동결건조해주세요", "family": "demo:동결건조", "split": "diagnostic"}
+{"id": "demo-04", "text": "오 진짜? 오또카지 나 다음 주에 갈 각ㅋㅋㅋㅋ", "family": "demo:오또카지", "split": "diagnostic"}
+{"id": "demo-05", "text": "ㅇㅇ 마기꾼일 확률 99%임 ㅋㅋㅋ 마스크빨 무시 못함", "family": "demo:마기꾼", "split": "diagnostic"}
+{"id": "demo-06", "text": "딱 봐도 겉바속촉느낌 충만ㅋㅋ 갑자기 치킨 먹고싶다ㅠㅠ", "family": "demo:겉바속촉", "split": "diagnostic"}
+{"id": "demo-07", "text": "시험 기간이라 내일도 중도런 해야 함 ㅠㅠ", "family": "demo:중도런", "split": "diagnostic"}
+{"id": "demo-08", "text": "점심으로 김치찌개를 먹었는데 조금 짰다.", "family": "demo:plain", "split": "diagnostic"}

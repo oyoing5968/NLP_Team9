@@ -1,0 +1,25 @@
+{
+ "train_cases": 497,
+ "validation_cases": 79,
+ "test_cases": 74,
+ "validation_strata": {
+  "registered": 34,
+  "unregistered": 39,
+  "plain": 6
+ },
+ "test_strata": {
+  "registered": 35,
+  "unregistered": 33,
+  "plain": 6
+ },
+ "lexicon_eval_entries": 389,
+ "lexicon_demo_entries": 495,
+ "lexicon_teacher_entries": 146,
+ "koneo_cases": 100,
+ "families": {
+  "train": 273,
+  "validation": 109,
+  "test": 113
+ },
+ "koculture_titles_with_usage": 309
+}

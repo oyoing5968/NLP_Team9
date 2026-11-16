@@ -1,0 +1,18 @@
+# 설치물·모델·캐시 (mac/install.sh가 만듦)
+_mac_runtime/
+# 모델 두 조각 2.7GB: git의 파일 크기 제한 때문에 빼고 과제 공유용 zip에 넣음
+release/
+# 받은 글 원본 페이지 (근거 글의 글자는 data/db/live/corpus.jsonl에 있음)
+_crawl/
+# 쓰면서 쌓이는 것
+data/db/live/candidates.jsonl
+data/db/live/review_*.jsonl
+data/db/live/update_wanted
+data/db/live/update_state.json
+runs/
+__pycache__/
+*.pyc
+.DS_Store
+.update.lock
+# 개발 작업 도구·메모 (공개하지 않음)
+_work/

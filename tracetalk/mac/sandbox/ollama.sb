@@ -1,0 +1,27 @@
+(version 1)
+; The Mac's Ollama (mac/serve.sh): models and keys only inside RUNTIME, network on this computer only (it serves
+; 127.0.0.1:11435 and starts its llama-server on another local port). Nothing goes out: 11-06 it tried ollama.com for
+; "model recommendations" and a "cloud cache" at start, refused here. NET=1 (mac/setup.sh, the one bge-m3 pull)
+; allows HTTPS out for that run only.
+(allow default)
+(deny file-read* file-write* (subpath "/Users") (subpath "/Volumes"))
+(allow file-read-metadata (literal "/Users") (literal (param "HOME_DIR")) (literal (param "PARENT"))
+                          (literal (param "RUNTIME_PARENT"))
+                          ; v16: every folder above the project (mac/run.sh UP0-UP15): path lookups only, wherever it is unpacked
+                          (literal (param "UP0")) (literal (param "UP1")) (literal (param "UP2")) (literal (param "UP3")) (literal (param "UP4")) (literal (param "UP5")) (literal (param "UP6")) (literal (param "UP7")) (literal (param "UP8")) (literal (param "UP9"))
+                          (literal (param "UP10")) (literal (param "UP11")) (literal (param "UP12")) (literal (param "UP13")) (literal (param "UP14")) (literal (param "UP15")))
+(deny file-write*)
+(allow file-write* (literal "/dev/null") (literal "/dev/tty") (regex #"^/dev/fd/"))
+(allow file-read* file-write* (subpath (param "ROOT")) (subpath (param "RUNTIME")))
+(deny network*)
+(allow network-bind (local ip "localhost:*"))
+(allow network-inbound (local ip "localhost:*"))
+(allow network-outbound (remote ip "localhost:*"))
+(allow network-outbound (remote unix-socket))
+; 11-09: no name lookups either (as app.sb): Ollama's start-up tries for ollama.com now fail before even the DNS
+; question leaves this Mac. NET=1 opens lookups and HTTPS together, for that one run only.
+(deny network-outbound (literal "/private/var/run/mDNSResponder"))
+(deny mach-lookup (global-name "com.apple.dnssd.service") (global-name "com.apple.nsurlsessiond"))
+(if (equal? (param "NET") "1") (allow network-outbound (remote tcp "*:443")))
+(if (equal? (param "NET") "1") (allow network-outbound (literal "/private/var/run/mDNSResponder")))
+(if (equal? (param "NET") "1") (allow mach-lookup (global-name "com.apple.dnssd.service")))

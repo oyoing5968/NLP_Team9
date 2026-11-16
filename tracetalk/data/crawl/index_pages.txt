@@ -1,0 +1,5 @@
+# 새 글을 찾는 목록 페이지 (crawl_pages.py discover). 모두 허용 목록(sources.txt) 안. 글 주소만 뽑고, 받는 것은 fetch 규칙대로.
+https://maily.so/trendaword
+https://maily.so/farmingletter
+https://gogumafarm.kr/
+https://letter.wepick.kr/

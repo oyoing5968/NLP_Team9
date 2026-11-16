@@ -1,0 +1,7 @@
+# 크롤러 허용 목록 (docs/CRAWLER.md): https만, 호스트가 정확히 같을 때만, 경로 앞부분까지 적으면 그 아래만.
+# 2026-11-06: fresh_v3 낱말 40개 대부분의 출처였던 신조어 뉴스레터 세 곳. 고칠 때는 팀이 합의하고 한 줄씩.
+maily.so/trendaword
+maily.so/farmingletter
+gogumafarm.kr
+www.gogumafarm.kr
+letter.wepick.kr

@@ -1,0 +1,19 @@
+(version 1)
+; The crawler's fetch step (docs/CRAWLER.md): reads the project, writes only the fetched-pages folder
+; (CRAWL = ROOT/_crawl), and connects out over HTTPS only (which sites: the allowlist in the code). It cannot reach
+; this computer's own services (the screen, Ollama), the user's files or anything outside CRAWL.
+(allow default)
+(deny file-read* file-write* (subpath "/Users") (subpath "/Volumes"))
+(allow file-read-metadata (literal "/Users") (literal (param "HOME_DIR")) (literal (param "PARENT"))
+                          (literal (param "RUNTIME_PARENT"))
+                          ; v16: every folder above the project (mac/run.sh UP0-UP15): path lookups only, wherever it is unpacked
+                          (literal (param "UP0")) (literal (param "UP1")) (literal (param "UP2")) (literal (param "UP3")) (literal (param "UP4")) (literal (param "UP5")) (literal (param "UP6")) (literal (param "UP7")) (literal (param "UP8")) (literal (param "UP9"))
+                          (literal (param "UP10")) (literal (param "UP11")) (literal (param "UP12")) (literal (param "UP13")) (literal (param "UP14")) (literal (param "UP15")))
+(deny file-write*)
+(allow file-write* (literal "/dev/null") (literal "/dev/tty") (regex #"^/dev/fd/"))
+(allow file-read* (subpath (param "ROOT")) (subpath (param "RUNTIME")))
+(allow file-write* (subpath (param "CRAWL")))
+(deny network*)
+(allow network-outbound (remote unix-socket))
+(allow network-outbound (remote tcp "*:443"))
+(deny network-outbound (remote ip "localhost:*"))
